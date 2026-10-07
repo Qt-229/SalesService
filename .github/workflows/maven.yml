@@ -21,7 +21,7 @@ jobs:
         cache: maven
 
     - name: Build and test with Maven
-      run: mvn -B package --file pom.xml
+      run: mvn -B package --file SalesService/pom.xml
 
     - name: Generate JaCoCo report
       run: mvn jacoco:report
