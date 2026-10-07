@@ -1,1 +1,1 @@
-https://github.com/Qt-229/SalesService/tree/60d1ec3ee8240f275ae3171679567a1ed719d45f/.github/workflows
+[![Sales Service Project (CI included) | © 2026](https://github.com/Qt-229/SalesService/actions/workflows/maven.yml/badge.svg)](https://github.com/Qt-229/SalesService/actions/workflows/maven.yml)
